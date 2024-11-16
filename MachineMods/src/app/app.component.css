@@ -1,0 +1,44 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #e64833;
+  color: #fff;
+  padding: 23px 0;
+  text-align: center;
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  letter-spacing: 7px;
+  font-size: larger;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  background-color: #244855;
+  overflow: hidden;
+}
+
+nav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 38px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #5b5b5b;
+}
